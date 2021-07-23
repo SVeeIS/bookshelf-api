@@ -5,7 +5,7 @@
 **Clone this repository by running the following command:**
 
 ```bash
-git clone https://github.com/SVeeIS/bookshelf-api.git
+git clone https://github.com/vionaaindah/bookshelf-api.git
 cd bookshelf-api
 ```
 
